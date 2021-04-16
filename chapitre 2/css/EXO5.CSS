@@ -1,0 +1,25 @@
+
+#bb2{background-color: rgb(136,245,145); width: 550px; height: 400px;  }
+.joueursattaque {
+    display:flex;
+    justify-content:space-around;
+    background-color: rosybrown; 
+        }
+
+.joueursmilieu {
+            display:flex;
+            justify-content:space-evenly;
+            background-color:  aqua; 
+                }
+
+.joueursdefense {
+            display:flex;
+            justify-content:space-around;
+            background-color:  red; 
+                        }                
+
+.goal {
+            display: flex;
+            justify-content: center;
+            background-color: pink;
+}
